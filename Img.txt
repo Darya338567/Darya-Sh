@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <!--Системная информация-->
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>MY Картинки</title>
+    <style>
+        
+        </style>
+</head>
+<body>
+    <p> <img src="Images/79ac771352f80f99c5b9fcd4b14257d0.jpeg" alt="Картинка">Lorem ipsum dolor sit amet consectetur adipisicing elit. Maxime sequi repellat optio. Eligendi quidem totam atque consequatur quos id sunt. Minus, inventore aspernatur ullam commodi ratione cupiditate placeat, facere dolorem enim voluptate maxime blanditiis quisquam laudantium porro officia, eius labore similique itaque veritatis ab est. Ullam nulla illum dolores ipsum consequatur neque eius eos eligendi labore placeat unde consectetur nostrum laboriosam iusto doloremque ipsam quo eaque at quibusdam, quisquam debitis! Ipsam molestiae consectetur ipsum molestias atque, accusamus magnam harum libero doloribus omnis asperiores rem itaque, perferendis nisi tempora. Illo placeat excepturi asperiores ad, eos beatae quasi cupiditate ab minima est.</p>
+       
+</body>      
+
+
+</html>
